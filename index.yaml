@@ -3,13 +3,13 @@ entries:
   cloudflare-tunnel:
   - apiVersion: v2
     appVersion: 2022.9.0
-    created: "2023-01-02T12:49:45.477756671+03:00"
+    created: "2023-01-02T12:53:56.671898307+03:00"
     description: Creation of a cloudflared deployment - a reverse tunnel for an environment
-    digest: c17d50412b7e18114021fb12ce323ab920ddf019b39e4e73db95d3fd5bf2625c
+    digest: be6b600ed172bd19ea48628076dfcfd5eb3b320b6e5901c721c60662b55b85b4
     icon: https://developers.cloudflare.com/cloudflare-one/favicon-32x32.png
     name: cloudflare-tunnel
     type: application
     urls:
     - https://5cat.github.io/argo-tunnel-examples/cloudflare-tunnel-0.1.0.tgz
     version: 0.1.0
-generated: "2023-01-02T12:49:45.477237751+03:00"
+generated: "2023-01-02T12:53:56.670879395+03:00"
